@@ -1,0 +1,1 @@
+java -jar Jeu-de-la-vie-1.0-SNAPSHOT.jar

@@ -1,0 +1,121 @@
+Dessin de la grille 0 (itération 0):
++------+
+|      |
+|  *   |
+|   ** |
+| **   |
+|   *  |
+|      |
++------+
+
+
+Dessin de la grille 1 (itération 1):
++------+
+|      |
+|   *  |
+| * *  |
+|  * * |
+|  *   |
+|      |
++------+
+
+
+Dessin de la grille 2 (itération 2):
++------+
+|      |
+|  *   |
+|   ** |
+| **   |
+|   *  |
+|      |
++------+
+
+
+Dessin de la grille 3 (itération 3):
++------+
+|      |
+|   *  |
+| * *  |
+|  * * |
+|  *   |
+|      |
++------+
+
+
+Dessin de la grille 4 (itération 4):
++------+
+|      |
+|  *   |
+|   ** |
+| **   |
+|   *  |
+|      |
++------+
+
+
+Dessin de la grille 5 (itération 5):
++------+
+|      |
+|   *  |
+| * *  |
+|  * * |
+|  *   |
+|      |
++------+
+
+
+Dessin de la grille 6 (itération 6):
++------+
+|      |
+|  *   |
+|   ** |
+| **   |
+|   *  |
+|      |
++------+
+
+
+Dessin de la grille 7 (itération 7):
++------+
+|      |
+|   *  |
+| * *  |
+|  * * |
+|  *   |
+|      |
++------+
+
+
+Dessin de la grille 8 (itération 8):
++------+
+|      |
+|  *   |
+|   ** |
+| **   |
+|   *  |
+|      |
++------+
+
+
+Dessin de la grille 9 (itération 9):
++------+
+|      |
+|   *  |
+| * *  |
+|  * * |
+|  *   |
+|      |
++------+
+
+
+Dessin de la grille 10 (itération 10):
++------+
+|      |
+|  *   |
+|   ** |
+| **   |
+|   *  |
+|      |
++------+
+
+
